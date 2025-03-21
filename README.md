@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codermshuaibsi
 - 👀 I’m interested in to make new projects
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning Web Development and Android Development 
 - 📫 if you want to see project demo so follow on instagram
 ig: mshuaibsi
 <!---
